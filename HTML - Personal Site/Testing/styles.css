@@ -1,0 +1,23 @@
+img:hover{
+    background-color:beige;
+}
+
+.mango{
+    background-color: red;
+}
+
+.broccoli{
+    background-color: cyan;
+}
+
+.circular{
+    border-radius: 10%;
+}
+
+h1{
+    color: red;
+}
+
+#heading{
+    color: blue;
+}
